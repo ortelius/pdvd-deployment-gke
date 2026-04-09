@@ -14,6 +14,6 @@ variable "org_mappings" {
   description = "Mapping of cluster/namespace to org. Keys are 'cluster/namespace', values are org names."
   default = {
     "cluster-2/default" = "ortelius"
-    "cluster-2/pdvd"    = "deployhub"
+    "cluster-2/deployhub"    = "deployhub"
   }
 }

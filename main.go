@@ -34,7 +34,7 @@ import (
 	// Registry & OCI
 	"github.com/google/go-containerregistry/pkg/name"
 	"github.com/google/go-containerregistry/pkg/v1/remote"
-	"github.com/ortelius/pdvd-backend/v12/model"
+	"github.com/ortelius/ortelius/v12/model"
 )
 
 // GitDetails represents metadata extracted from OCI image labels

@@ -1,4 +1,4 @@
-module github.com/ortelius/pdvd-deployment-gke
+module github.com/ortelius/deployment-gke
 
 go 1.26.1
 
@@ -9,7 +9,7 @@ require (
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/go-git/go-git/v5 v5.17.0
 	github.com/google/go-containerregistry v0.21.3
-	github.com/ortelius/pdvd-backend/v12 v12.0.507
+	github.com/ortelius/ortelius/v12 v12.0.507
 	google.golang.org/api v0.272.0
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7
 )

@@ -785,8 +785,8 @@ github.com/opencontainers/runtime-spec v1.3.0/go.mod h1:jwyrGlmzljRJv/Fgzds9SsS/
 github.com/opencontainers/selinux v1.13.1 h1:A8nNeceYngH9Ow++M+VVEwJVpdFmrlxsN22F+ISDCJE=
 github.com/opencontainers/selinux v1.13.1/go.mod h1:S10WXZ/osk2kWOYKy1x2f/eXF5ZHJoUs8UU/2caNRbg=
 github.com/orisano/pixelmatch v0.0.0-20220722002657-fb0b55479cde/go.mod h1:nZgzbfBr3hhjoZnS66nKrHmduYNpc34ny7RK4z5/HM0=
-github.com/ortelius/pdvd-backend/v12 v12.0.507 h1:/cVcCBc9AhY/2KGttnC3mlmsmJzxEcj9u+LZKKqUzxw=
-github.com/ortelius/pdvd-backend/v12 v12.0.507/go.mod h1:BHNfTUnJtB3iFXM4sSQ3L3fKW6ncZU6b+gEFv9aPNKQ=
+github.com/ortelius/ortelius/v12 v12.0.507 h1:/cVcCBc9AhY/2KGttnC3mlmsmJzxEcj9u+LZKKqUzxw=
+github.com/ortelius/ortelius/v12 v12.0.507/go.mod h1:BHNfTUnJtB3iFXM4sSQ3L3fKW6ncZU6b+gEFv9aPNKQ=
 github.com/package-url/packageurl-go v0.1.5 h1:O4efRXja2XQ5CtiiYiCZ22k/m7i5ugLiAghgcC+eDgk=
 github.com/package-url/packageurl-go v0.1.5/go.mod h1:nKAWB8E6uk1MHqiS/lQb9pYBGH2+mdJ2PJc2s50dQY0=
 github.com/pandatix/go-cvss v0.6.2 h1:TFiHlzUkT67s6UkelHmK6s1INKVUG7nlKYiWWDTITGI=
